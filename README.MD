@@ -1,5 +1,7 @@
 # 📚 SPHTools: Centralized Student Progress Tracker
 
+> Note: To get started, please visit the full **internal documentation**.
+
 ## What is SPH Tools/Uplift? (Junior School)
 
 Sekolah Pelita Harapan Lippo Village's web app and dashboard for marking students' standardized tests, documenting, and analyzing students' learning over time. The visualized graphs give teachers quick feedback to improve learning and teaching. The accumulated data over time can be exported to PDFs that provides the school with considerations for the improvement of curriculum design. 
@@ -43,6 +45,6 @@ Still struggling and don't know what to do? Click on the help/info buttons and t
 
 # Getting Started
 
-To get started, please visit the full **internal documentation** (Please ask the Administrator for the link to the internal documentation).
+To get started, please visit the full **internal documentation** (Ask the admin for the link).
 
 Thank you.
