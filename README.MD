@@ -32,14 +32,14 @@ teachers using the application in the future.
 
 When you enter the page for the first time, you will be given an onboarding tutorial that will guide you throughout the app! You can also click the help button on top of the screen to view the onboarding again.
 
-![Help - Using the tutorials!](https://raw.githubusercontent.com/jamesadhitthana/SPHTools/master/Documentation/need-help2.png?token=AINQE27SPVKMKVWYJAEMRS3AKAIRC)
+![Help - Using the tutorials!](https://raw.githubusercontent.com/jamesadhitthana/SPHTools-Docs/master/Documentation/need-help2.png?token=AINQE27SPVKMKVWYJAEMRS3AKAIRC)
 
 
 ## ❓ User-friendly Info ⓘ and Help Buttons for All Features!
 
 Still struggling and don't know what to do? Click on the help/info buttons and the app will help you understand all the features.
 
-![Help - Using Info and Help Buttons!](https://raw.githubusercontent.com/jamesadhitthana/SPHTools/master/Documentation/need-help1.png?token=AINQE24Y5KBGBQC32YTIZ5LAKAIQ6)
+![Help - Using Info and Help Buttons!](https://raw.githubusercontent.com/jamesadhitthana/SPHTools-Docs/master/Documentation/need-help1.png?token=AINQE24Y5KBGBQC32YTIZ5LAKAIQ6)
 
 # Getting Started
 
