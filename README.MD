@@ -2,7 +2,7 @@
 
 ## What is SPH Tools/Uplift? (Junior School)
 
-Sekolah Pelita Harapan Lippo Village web app and dashboard for marking students' standardized tests, documenting, and analyzing students' learning over time. The visualized graphs give teachers quick feedback to improve learning and teaching. The accumulated data over time can be exported to PDFs that provides the school with considerations for the improvement of curriculum design. 
+Sekolah Pelita Harapan Lippo Village's web app and dashboard for marking students' standardized tests, documenting, and analyzing students' learning over time. The visualized graphs give teachers quick feedback to improve learning and teaching. The accumulated data over time can be exported to PDFs that provides the school with considerations for the improvement of curriculum design. 
 Technologies used: JavaScript, Firebase, Bootstrap.
 
 ### 🏛 Understand Your Classroom
@@ -43,6 +43,6 @@ Still struggling and don't know what to do? Click on the help/info buttons and t
 
 # Getting Started
 
-To get started, please visit the full internal documentation.
+To get started, please visit the full **internal documentation**.
 
 Thank you.
