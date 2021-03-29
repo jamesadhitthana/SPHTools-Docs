@@ -43,6 +43,5 @@ Still struggling and don't know what to do? Click on the help/info buttons and t
 
 # Getting Started
 
-To get started, please visit the full **internal documentation**.
-
+To get started, please visit the full **internal documentation** (Please ask the Administrator for the link to the internal documentation).
 Thank you.
