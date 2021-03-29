@@ -1,6 +1,6 @@
 # 📚 SPHTools: Centralized Student Progress Tracker
 
-> Note: To get started with development as well as view all the flowcharts, code examples, and more, please visit the full **internal documentation**.
+> Note: To get started with development and view all the flowcharts, code examples, and more, visit the full **internal documentation**.
 
 ## What is SPH Tools/Uplift? (Junior School)
 
