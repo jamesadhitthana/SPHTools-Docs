@@ -76,4 +76,7 @@ Thank you.
 ## Support
 
 I'm sorry if the app or documentation confuses you.
-Please do not hesitate to contact me [here](https://jamesgalaxy.com/).
+This is a project I created as a favor for a school called Sekolah Pelita Harapan Lippo Village (Karawaci).
+Therefore, the source code will not be made public because of [Children's Online Privacy Protection Rule ("COPPA")](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act).
+
+For project inquiries, you can contact me. Thank you.
