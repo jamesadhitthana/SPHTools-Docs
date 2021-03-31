@@ -48,3 +48,32 @@ Still struggling and don't know what to do? Click on the help/info buttons and t
 To get started with development as well as view all the flowcharts, code examples, and more, visit the **internal documentation** (Ask the IT admin for the link).
 
 Thank you.
+
+# Built With
+
+-   [JavaScript](https://www.javascript.com/)  - JavaScript
+-   [Firebase](https://firebase.google.com/)  - Firebase
+-   [Bootstrap](https://getbootstrap.com/)  - Bootstrap
+-   [SB-Admin2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2)  - SB Admin 2
+-   [JQuery](https://jquery.com/)  - JQuery + JQueryUI
+-   [IziToast](https://github.com/marcelodolza/iziToast)  - IziToast
+-   [Chart.js](https://github.com/chartjs/Chart.js)  - Chart.js
+-   [DataTables](https://github.com/DataTables/DataTables) - DataTables
+-   [Push.js](https://github.com/Nickersoft/push.js)  - Push.js
+-   [Intro.js](https://github.com/usablica/intro.js/)  - Intro.js
+-   [js-cookie](https://github.com/js-cookie/js-cookie) - js-cookie
+-   [Moment.js](https://github.com/moment/moment)  - Moment.js
+-   [FitText](https://github.com/davatron5000/FitText.js/)  - FitText
+-   [sweetalert2](https://github.com/sweetalert2/sweetalert2)  - sweetalert2
+-   [autoComplete.js](https://tarekraafat.github.io/autoComplete.js)  - autoComplete.js
+-   [jsPDF](https://github.com/MrRio/jsPDF)  - jsPDF
+-   [bootstrap-select](https://github.com/snapappointments/bootstrap-select)  - bootstrap-select
+
+# Author
+
+-   **[James Adhitthana](https://github.com/jamesadhitthana/)**
+
+## Support
+
+I'm sorry if the app or documentation confuses you.
+Please do not hesitate to contact me [here](https://jamesgalaxy.com/).
