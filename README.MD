@@ -23,7 +23,7 @@ Easy scoring system and tracking simply by checking on checkboxes and entering y
 Automatically download your student's scores as a PDF file just like this.
 
 ### ✨ What are you waiting for?
-Get started by clicking [here to sign in](https://sphtools.web.app/app/login.html).
+Get started by clicking ~here to sign in~.
 
 # Need Help?
 
